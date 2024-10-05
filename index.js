@@ -14,6 +14,7 @@ function addlast(){
     while(true)
         {
         console.log("last");
+        confirm("Are you sure you want to)")
         break;
     }
 }
