@@ -10,3 +10,11 @@ function isAbove18(){
     console.log("Above 18")
 }
 
+function addlast(){
+    while(true)
+        {
+        console.log("last");
+        break;
+    }
+}
+
