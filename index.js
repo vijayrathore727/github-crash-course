@@ -19,3 +19,8 @@ function addlast(){
     }
 }
 
+
+
+function hello(){
+    console.log("hello")
+}
