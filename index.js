@@ -6,3 +6,7 @@ function sayHello(){
     console.log(`Hello, my name is ${name}. I am ${age} years old. I live in ${city}, ${subLocation}.`);
 }
 
+function isAbove18(){
+    console.log("Above 18")
+}
+
